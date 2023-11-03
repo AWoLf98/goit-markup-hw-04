@@ -127,7 +127,7 @@ button {
     color: #404BBF;
 }
 
-.studio:active::after {
+.studio::after {
     display: block;
     position: absolute;
     content: '';
